@@ -8,7 +8,7 @@ const Login = () => {
   return (
     <div>
       <h1>Login with Google</h1>
-      <button onClick={handleLoginClick}>Login with Google </button>
+      <button onClick={handleLoginClick}>Login with Google</button>
     </div>
   );
 };
